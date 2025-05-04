@@ -1,0 +1,1 @@
+zip -r Niu_midterm.zip . -x "./data/filtered_imgs/*" "./data/rotate90_imgs/*" "./data/rotate180_imgs/*" "./data/rotate270_imgs/*" "./data/imgs/*" ".env"

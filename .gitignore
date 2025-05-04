@@ -1,3 +1,11 @@
+# Local files
+
+data/
+results/
+results_old/
+Archive/
+chat_templates/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
